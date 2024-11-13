@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Metas -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>XRADEMARK | Kişisel Verilerin Korunması Hakkında Çerez Bilgilendirme Metni</title>
+	<meta name="description" content="XRADEMARK | Kişisel Verilerin Korunması Hakkında Çerez Bilgilendirme Metni">
+	<meta name="author" content="Dixjuin Digital Agency">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="format-detection" content="telephone=+19179856262">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@xrademark">
+	<meta name="twitter:title" content="Xrademark">
+	<meta name="twitter:description" content="Xrademark | Kişisel Verilerin Korunması Hakkında Çerez Bilgilendirme Metni">
+	<meta name="twitter:creator" content="@xrademark">
+	<meta name="twitter:image" content="img/twitter-card.jpg">
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
+	<meta property="og:title" content="Xrademark">
+	<meta property="og:type" content="Article">
+	<meta property="og:url" content="https://www.xrademark.com">
+	<meta property="og:image" content="assets/img/fb-og-image.jpg">
+	<meta property="og:description" content="Xrademark | Kişisel Verilerin Korunması Hakkında Çerez Bilgilendirme Metni">
+	<meta property="og:site_name" content="Xrademark">
+	<meta property="fb:admins" content="104332102412513">
+	
+
+	<!-- External CSS -->
+	<link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+	<link rel="stylesheet" href="assets/css/themify-icons.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="assets/css/main.css">
+	<link rel="stylesheet" href="assets/css/colors.css">
+	<link rel="stylesheet" href="assets/css/responsive.css">
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+
+	<!-- Favicon -->
+	<link rel="icon" href="assets/img/favicon.png">
+</head>
+
+<body>
+
+	<div class="container">
+
+		<!-- Header -->
+	
+		<header class="main-header">
+
+			<a href="index.html" class="logo">
+				<img src="assets/img/logo.svg" alt="logo">
+			</a>
+			<nav>
+				<a href="#" class="open-nav"><i></i></a>
+				<ul class="navigation">
+					<li><a href="index.html">ana sayfa</a>
+					</li>
+					<li><a href="marka.html">marka</a>
+					</li>
+					<li><a href="patent.html">patent</a>
+					</li>
+					<li><a href="sss.html">sss</a>
+					</li>
+					<li><a href="destek.html">destek</a></li>
+				</ul> <!-- /.navigation -->
+
+			</nav> <!-- /nav -->
+
+		</header> <!-- /header -->
+
+		<div class="clearfix"></div>
+
+	</div> <!-- /.container -->
+
+	<div class="container">
+		
+		<main>
+			
+			<article class="post">
+				
+				<header class="entry-header">
+
+					<a href="#" class="cat-links">GİZLİLİK VE GÜVENLİK</a>
+					<h2 class="entry-title">Kişisel Verilerin Korunması Hakkında Çerez Bilgilendirme Metni</h2>
+					<a href="#" class="entry-meta">Son Güncelleme 01.01.2023</a>
+
+				</header> <!-- /.entry-header -->
+
+				<div class="entry-content">
+
+					<p><b>(“Çerez Bilgilendirme Metni”)</b></p>
+					<p>7 Nisan 2016 tarihli ve 29677 Sayılı Resmî Gazete’de yayımlanan 6698 sayılı Kişisel Verilerin Korunması Kanunu (“Kanun”),10 Mart 2018 tarih ve 30356 sayılı Resmi Gazete’de yayımlanan Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ’i (“Tebliğ”), ve ilgili mevzuat uyarınca, veri sorumlusu olarak DIXJUIN DİJİTAL AJANS VE YAZILIM ÇÖZÜMLERİ A.Ş. (“XRADEMARK” veya “Şirket”) tarafından, https://www.xrademark.com web sitesi üzerinden ve mobil uygulama (“Site”) ile ilgili hizmetleri sunarken kullandığımız çerez (cookie)  ve uygulamalar ile işlenen kişisel verileriniz hakkında siz değerli müşterilerimizi işbu Çerez Bilgilendirme Metni ile bilgilendirmek istiyoruz.</p>
+					<p><b>Çerezler Vasıtasıyla İşlenen Kişisel Verileriniz</b></p>
+					<p>Site çerez (cookie) kullanan bir sitedir. XRADEMARK’ın Site’sini kullanarak çerez (cookie) ve benzeri formatların kullanımına izin vermiş olmaktasınız.</p>
+					<p>Site’yi mobilden ya da web sitesinden ziyaret ettiğinizde, çerez (cookie) formatında ya da benzeri türden dosyada söz konusu cihazın tespit edilmesine olanak tanıyan bilgiler aşağıda belirtilen amaçlar için cihazınız internet tarayıcısına ya da sabit diskine depolanarak konulabilir.</p>
+					<p>Site’de oturum çerezleri ve kalıcı çerezler, zorunlu çerezler, işlevsel ve analitik çerezler kullanmaktadır. İnternet tarayıcınızın “yardım” dosyasında çerezlerin kaldırılması, reddedilmesi hususunda verilen ve aşağıda belirttiğimiz talimatları izleyerek çerezleri reddedebilir, kaldırabilirsiniz.  Ancak, bu durumda web sitesinin ve mobil uygulamanın tüm işlevlerine erişemeyebilirsiniz veya erişiminiz kısıtlı şekilde sağlanabilir.</p>
+					<p>Çerezler (cookie), işbu Çerez Bilgilendirme Metni’nde belirtilen amaçlar dışında kullanılmamaktadır. Çerezler vasıtasıyla elde edilen kişisel verileriniz XRADEMARK tarafından Kanun ve ilgili mevzuata uygun olarak işlenmekte, saklanmakta ve güvenliği sağlanmakta bu hususta şirketimiz tarafından idari ve teknik önlemler alınmaktadır.</p>
+					<p><b>Çerez Kullanım Amacımız</b></p>
+					<p>XRADEMARK olarak çerez (cookie) kullanımı ile;</p>
+					<p>• Kalite kontrolünün yapılması ve hizmet kalitesinin artırılması,</p>
+					<p>• XRADEMARK Site’si ile nereden ve hangi cihazlardan bağlanıldığı Site üzerinde hangi içeriği görüntülendiği ve ziyaretin süresi gibi Site’yi nasıl kullanıldığının tespiti de dahil olmak üzere; Site’nin nasıl kullanıldığının belirlenmesi,</p>
+					<p>• Site üzerinden alışveriş yapanın kimlik bilgilerinin teyit edilmesi,</p>
+					<p>• İletişim için adres ve diğer gerekli bilgilerin kaydedilmesi,</p>
+					<p>• Kayıt ve belgelerin düzenlenmesi, talep halinde ve mevzuat gereği kamu görevlilerine bilgi verilebilmesi,</p>
+					<p>• XRADEMARK Müşteri’lerine daha iyi bir alışveriş deneyiminin sağlanması, “müşterilerimizin ilgi alanlarını dikkate alarak” Müşteri’lerin ilgilenebileceği XRADEMARK ürünleri hakkında Müşteri’lere bilgi verebilmesi, güncel kampanyaların aktarılması, Müşteri’lere öneri sunulabilmesi, kampanya, promosyon, indirim, teklif, etkinlikler, çekilişler, yarışmalar ve fırsat faaliyetleri ve  hizmetlerimizle ilgili Müşteri’lerimizin bilgilendirilmesi,</p>
+					<p>• Çeşitli pazarlama ve reklam faaliyetlerinde kullanabilmek ve bu kapsamda anlaşmalı kuruluşlar aracılığıyla elektronik ortamda ve/veya fiziki ortamda anketler düzenlemesi,</p>
+					<p>• Müşterileri’lere daha iyi bir alışveriş deneyiminin sağlanması, “müşterilerimizin ilgi alanlarını dikkate alarak” müşterilerimizin ilgilenebileceği ürünlerimiz hakkında müşterilerimize bilgi verilebilmesi, güncel kampanyaların aktarılması, müşterilerimize öneri sunabilmesi, hizmetlerimizle ilgili müşterilerimizin bilgilendirebilmesi,</p>
+					<p>• Site’nin çalışması için gerekli temel fonksiyonların gerçekleştirilmesi, Site’nin analiz edilmesi ve Site’nin performansının, işlevselliğinin arttırılması ve kullanım kolaylığının sağlanması,</p>
+					<p>• Kanun ve ilgili mevzuat gereği yasal yükümlülüklerin XRADEMARK tarafından yerine getirebilmesi ve yürürlükteki mevzuattan doğan haklarının kullanılabilmesi, amacındayız.</p>
+					<p><b>Hangi Çerez Türlerini Kullanmaktayız?</b></p>
+					<p>XRADEMARK’ta kullanılan çerez türleri ile XRADEMARK’ın söz konusu çerezleri kullanım amaçları aşağıdaki gibidir;</p>
+					<p>• Sitemizi kullanımınız sırasında geçerli olan internet tarayıcınızı kapatıncaya kadar geçerliliklerini koruyan Oturum Çerezleri,</p>
+					<p>• Tarayıcınızda saklanan ve tarafınızca silininceye dek veya son kullanım tarihine kadar geçerliliğini koruyan Kalıcı Çerezler,</p>
+					<p>• Sitemizin düzgün bir şekilde çalışabilmesi, Sitemizin özelliklerinden ve sunulan hizmetlerden yararlanabilmeniz için kullanımı mecburi olan Zorunlu Çerezler,</p>
+					<p>• Sitemizi ziyaretiniz sırasındaki davranış ve tercihlerinizin hatırlanması, Sitemizin etkin bir şekilde kullanılması, Sitemizin isteklerinize cevap verecek şekilde optimize edilmesi gibi amaçlarla kullanılan ve siteyi nasıl kullandığınız hakkında verileri içeren, nitelikleri gereği kişisel verilerinizi içerebilen İşlevsel ve Analitik Çerezler.</p>
+					<p><b>Çerezlerin Saklanması ve Erişilmesi</b></p>
+					<p>Site’yi mobilden ya da web sitesinden ziyaret ettiğinizde, çerez (“cookie”) formatında ya da benzeri türden dosyada söz konusu cihazın tespit edilmesine olanak tanıyan bilgiler cihazınız internet tarayıcısına ya da sabit diskine depolanarak saklanmaktadır.</p>
+					<p>Tarayıcınızı çerezleri tüm siteler veya belirli siteler için engelleyecek, çerez oluşturulduğunda uyarı verecek, üçüncü taraf çerezleri engelleyecek veya tüm çerezleri oturum çerezi gibi sayacak şekilde yapılandırabilirsiniz.</p>
+					<p>Site’yi kullanabilmek için çerez kullanımı zorunlu değildir, fakat tarayıcınızı tüm çerezleri engelleyecek şekilde ayarlamanız halinde kullanıcı deneyiminizin kalitesi düşebilir. Aynı şekilde tarayıcınızı tüm çerezleri engelleyecek şekilde ayarlamanız Site’ye erişim sağlamanızı ya da Site’nin çeşitli işlevlerinden yararlanmanızı engelleyebilir.</p>
+					<p>Aşağıdaki yöntemleri kullanarak çerezlere izin verme ve reddetme imkanını kullanabilirsiniz:</p>
+					<p>Google Chrome: Tarayıcınızın adres bölümünde yer alan, “kilit işareti”ni tıklayarak, “Çerezler” sekmesinden çerezlere izin verebilir veya engelleyebilirsiniz.</p>
+					<p>Internet Explorer: Tarayıcınızın sağ üst bölümünde yer alan “Araçlar” bölümünden güvenlik sekmesini tıklayarak “izin ver” veya “izin verme” şeklinde çerezleri yönetebilirsiniz.</p>
+					<p>Mozilla Firefox: Tarayıcınızın sağ üst köşesinde yer alan “menüyü aç” sekmesini tıklayınız. “Seçenekler” görselini tıklayarak “Gizlilik ve Güvenlik” butonunu kullanarak çerezleri yönetebilirsiniz.</p>
+					<p>Opera: Tarayıcınızın “Tercihler” bölümünde “Gelişmiş”i seçerek “Çerezler” bölümünden çerez yönetimini yapabilirsiniz.</p>
+					<p>Safari: Telefonunuzun “Ayarlar” bölümünden “safari” sekmesini seçip, “Gizlilik ve Güvenlik” Bölümünden tüm çerez yönetiminizi yapabilirsiniz.</p>
+					<p><b>Kişisel Veri Sahibinin 6698 sayılı Kanun’un 11. maddesinde Sayılan Hakları Nelerdir?</b></p>
+					<p>Kişisel veri sahipleri olarak Kanun’un “İlgili kişinin hakları”  başlıklı 11. maddesi uyarınca;</p>
+					<p>• Kişisel verilerinizin işlenip işlenmediğini öğrenme,</p>
+					<p>• Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme,</p>
+					<p>• Kişisel verilerinizin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,</p>
+					<p>• Yurt içinde veya yurt dışında kişisel verilerinizin aktarıldığı üçüncü kişileri bilme,</p>
+					<p>• Kişisel verilerinizin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme,</p>
+					<p>• Kanun ve sair mevzuat hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel verilerinizin silinmesini veya yok edilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme,</p>
+					<p>• İşlenen verilerinizin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize olan bir sonucun ortaya çıkmasına itiraz etme,</p>
+					<p>• Kişisel verilerinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme haklarınız bulunmaktadır.</p>
+					<p>Kişisel veri sahipleri olarak, haklarınıza ilişkin taleplerinizi Müşteri Aydınlatma Metni’nde ‘Veri Sorumlusunun Kimliği’ başlığı altında belirtilen web adresimize mail yolu ile ya da  şirket adresine posta yolu ile usulüne uygun, kimlik bilgilerinizi belirtir şekilde iletmeniz halinde, XRADEMARK söz konusu talebinizin niteliğine göre en kısa sürede ve en geç otuz (30) gün içinde ücretsiz olarak ancak, işlemin ayrıca bir maliyeti gerektirmesi halinde, Kişisel Verileri Koruma Kurulu’nca belirlenen tarifedeki ücret alınarak talebinizi sonuçlandıracaktır.</p>
+					<p>İşbu Çerez Bilgilendirme Metni, değişen süreçlerimiz ve Kanun’a uyum sağlamak amacıyla güncellenebilecektir. XRADEMARK olarak Site’mizde kullandığımız çerezleri kullanmaktan vazgeçebilir, bunların türlerini veya fonksiyonlarını değiştirebilir veya Site’ye yeni çerezler ekleyebiliriz. Gerçekleşebilecek güncellemeler için Site’mizi düzenli aralıklarla ziyaret etmenizi rica ederiz.</p>
+					<p><b>DIXJUIN DİJİTAL AJANS VE YAZILIM ÇÖZÜMLERİ A.Ş.</b></p><br>
+				</div> <!-- /.entry-content -->
+
+			<div class="clearfix"></div>
+
+		</main> <!-- /.main -->
+
+	</div> <!-- /.container -->
+
+	<!-- Footer -->
+	<section class="detailed-info">
+			
+		<div class="container">
+			
+			<ul>
+				<li><span class="role">xrademark türkİye</span><a href="index.html">ana sayfa</a></li>
+				<li><span class="role"></span><a href="hakkimizda.html">hakkımızda</a></li>
+				<li><span class="role"></span><a href="kariyer.html">kariyer</a></li>
+				<li><span class="role"></span><a href="destek.html">İletişim</a></li>
+			</ul>
+
+			<ul>
+				<li><span class="role">yardım ve destek</span><a href="hesabim.html">hesabım</a></li>
+				<li><span class="role"></span><a href="sss.html">sık sorulan sorular</a></li>
+				<li><span class="role"></span><a href="destek.html">müşteri hizmetleri</a></li>
+				<li><span class="role"></span><a href="https://wa.me/905324590369" target="_blank">WhatsApp destek hattı</a></li>
+
+			</ul>
+
+			<ul>
+				<li><span class="role">servİsler</span><a href="paketler.html">paketler</a></li>
+				<li><span class="role"></span><a href="kampanyalar.html">kampanyalar</a></li>
+				<li><span class="role"></span><a href="kayit-ol.html">ücretsiz dene</a></li>
+				<li><span class="role"></span><a href="tavsiye-et.html">tavsiye et</a></li>
+
+			</ul>
+
+			<ul>
+				<li><span class="role">gİzlİlİk ve güvenlİk</span><a href="gizlilik.html">KVKK Politikası</a></li>
+				<li><span class="role"></span><a href="acik-riza-metni.html">açık rıza metni</a></li>
+				<li><span class="role"></span><a href="aydinlatma-metni.html">aydınlatma metni</a></li>
+				<li><span class="role"></span><a href="cerezler.html">çerez politikası</a></li>
+			</ul>
+
+			<div class="clearfix"></div>
+
+		</div> <!-- /.container -->
+
+	</section> <!-- /.detailed-info -->
+
+	<footer class="main-footer">
+		
+
+		<div class="content">
+			
+
+			
+
+			<div class="social-icons">
+				<ul>
+					<li><a href="https://www.facebook.com/xrademark" target="_blank"><i class="fab fa-facebook" target="_blank"></i></a></li>
+					<li><a href="https://www.instagram.com/xrademark" target="_blank"><i class="fab fa-instagram" target="_blank"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/xrademark" target="_blank"><i class="fab fa-linkedin-in" target="_blank"></i></a></li>
+					<li><a href="https://www.youtube.com/@xrademark" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a></li>
+					<li><a href="https://twitter.com/xrademark" target="_blank"><i class="fab fa-twitter" target="_blank"></i></a></li>
+					<li><a href="https://medium.com/@xrademark" target="_blank"><i class="fab fa-medium" target="_blank"></i></a></li>
+					<li><a href="https://wa.me/905324590369" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+				</ul>
+			</div>
+
+			<div class="copyright-info">
+				<p>Copyright &#169; 2023 DIXJUIN Digital Agency & Software Solutions<br> All Rights Reserved</p>
+			</div>
+
+			<div class="clearfix"></div>
+
+		</div> <!-- /.container -->
+
+	</footer>
+
+
+	<div class="aside-nav-container">
+
+		<a href="#" class="close-nav"><i class="ti-close"></i></a>
+
+		<nav>
+
+			<ul class="aside-nav">
+				<li><a href="index.html">ana sayfa</a>
+				</li>
+				<li><a href="marka.html">marka</a>
+				</li>
+				<li><a href="patent.html">patent</a>
+				</li>
+				<li><a href="sss.html">SSS</a>
+				</li>
+				<li><a href="destek.html">destek</a></li>
+			</ul> <!-- /.navigation -->
+
+		</nav>
+
+	</div> <!-- /.aside-nav-container -->
+
+	<div class="body-overlay"></div>
+
+	<!-- Script -->
+	<script src="assets/js/main.js"></script>
+
+</body>
+</html>

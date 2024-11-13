@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Metas -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>XRADEMARK | Kişisel Verilerin Korunması Hakkında Müşteri Aydınlatma Metni</title>
+	<meta name="description" content="XRADEMARK | Kişisel Verilerin Korunması Hakkında Müşteri Aydınlatma Metni">
+	<meta name="author" content="Dixjuin Digital Agency">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="format-detection" content="telephone=+19179856262">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@xrademark">
+	<meta name="twitter:title" content="Xrademark">
+	<meta name="twitter:description" content="Xrademark | Kişisel Verilerin Korunması Hakkında Müşteri Aydınlatma Metni">
+	<meta name="twitter:creator" content="@xrademark">
+	<meta name="twitter:image" content="img/twitter-card.jpg">
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
+	<meta property="og:title" content="Xrademark">
+	<meta property="og:type" content="Article">
+	<meta property="og:url" content="https://www.xrademark.com">
+	<meta property="og:image" content="assets/img/fb-og-image.jpg">
+	<meta property="og:description" content="Xrademark | Kişisel Verilerin Korunması Hakkında Müşteri Aydınlatma Metni">
+	<meta property="og:site_name" content="Xrademark">
+	<meta property="fb:admins" content="104332102412513">
+	
+
+	<!-- External CSS -->
+	<link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+	<link rel="stylesheet" href="assets/css/themify-icons.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="assets/css/main.css">
+	<link rel="stylesheet" href="assets/css/colors.css">
+	<link rel="stylesheet" href="assets/css/responsive.css">
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+
+	<!-- Favicon -->
+	<link rel="icon" href="assets/img/favicon.png">
+</head>
+
+<body>
+
+	<div class="container">
+
+		<!-- Header -->
+	
+		<header class="main-header">
+
+			<a href="index.html" class="logo">
+				<img src="assets/img/logo.svg" alt="logo">
+			</a>
+			<nav>
+				<a href="#" class="open-nav"><i></i></a>
+				<ul class="navigation">
+					<li><a href="index.html">ana sayfa</a>
+					</li>
+					<li><a href="marka.html">marka</a>
+					</li>
+					<li><a href="patent.html">patent</a>
+					</li>
+					<li><a href="sss.html">sss</a>
+					</li>
+					<li><a href="destek.html">destek</a></li>
+				</ul> <!-- /.navigation -->
+
+			</nav> <!-- /nav -->
+
+		</header> <!-- /header -->
+
+		<div class="clearfix"></div>
+
+	</div> <!-- /.container -->
+
+	<div class="container">
+		
+		<main>
+			
+			<article class="post">
+				
+				<header class="entry-header">
+
+					<a href="#" class="cat-links">GİZLİLİK VE GÜVENLİK</a>
+					<h2 class="entry-title">Kişisel Verilerin Korunması Hakkında Müşteri Aydınlatma Metni</h2>
+					<a href="#" class="entry-meta">Son Güncelleme 01.01.2023</a>
+
+				</header> <!-- /.entry-header -->
+
+				<div class="entry-content">
+
+					<p><b>(“Müşteri Aydınlatma Metni”)</b></p>
+					<p><b>Genel</b></p>
+					<p>7 Nisan 2016 tarihli ve 29677 Sayılı Resmî Gazete’de yayımlanan 6698 sayılı Kişisel Verilerin Korunması Kanunu (“Kanun”) ile her daim uyumlu olarak kişisel verilerinizin işbu Müşteri Aydınlatma Metni kapsamında veri sorumlusu olarak DIXJUIN DİJİTAL AJANS VE YAZILIM ÇÖZÜMLERİ A.Ş.(“XRADEMARK” veya “Şirket”) tarafından aşağıda açıklanan kapsamda gerekli hallerde açık rızanızla ya da kanunda öngörülen haller kapsamında işlenebilecektir. Müşteri Aydınlatma Metni’nin amacı, 10 Mart 2018 tarih ve 30356 sayılı Resmi Gazete’de yayımlanan Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ’i (“Tebliğ”), Kanun ve ilgili mevzuat uyarınca XRADEMARK tarafından işlenen kişisel verileriniz hakkında sizleri bilgilendirmektir.</p>
+					<p>İşbu Müşteri Aydınlatma Metni’nin amacı, XRADEMARK tarafından kamuya açık olarak işletilmekte olan ve link adresi https://www.xrademark.com olan web sitesinin/mobil uygulamasının işletilmesi sırasında söz konusu sitenin üyeleri, kullanıcıları ve/veya ziyaretçilerinden (“Müşteri”) elde edilen kişisel verilerinin işlenmesine ilişkin ayrıntılı bilginin sunulmasıdır.</p>
+					<p><b>Veri Sorumlusunun Kimliği</b></p>
+					<p>XRADEMARK’ın müşterilerinden elde edilen kişisel veriler bakımından Kanun ve ilgili düzenlemeler uyarınca “veri sorumlusu” sıfatına haiz olan XRADEMARK’a ait kimlik ve iletişim bilgilerine aşağıda yer verilmiştir.</p>
+					<p>Şirket: DIXJUIN DİJİTAL AJANS VE YAZILIM ÇÖZÜMLERİ A.Ş., 2951211903</p>
+					<p>Adres : Yıldırım Beyazıt Mah. Aşık Veysel Blv. Erciyes Üniversitesi Teknopark 3 No: 67/4 38039 Melikgazi Kayseri</p>
+					<p>Tel : (+90) 352 224 10 06</p>
+					<p>E-posta: support@xrademark.com</p>
+					<p><b>Kişisel Verilerinizi Hangi Amaçla İşliyoruz?</b></p>
+					<p>Müşteri’lere daha iyi hizmet verebilmek amacıyla ve Kanun ile ilgili mevzuattan kaynaklanan yasal yükümlülük çerçevesinde; iş bu metinde sayılanlarla sınırlı olmamak üzere söz konusu amaç ve yasal yükümlülüklerini yerine getirebilmeyi sağlayacak kişisel verilerinizi (ad, soyad, doğum tarihi, cep telefonu numarası, e-posta, cinsiyet, adres, meslek, eğitim, medeni durum, üyenin tüm alışveriş bilgileri, müşteri işlem bilgileriniz sosyal medya hesaplarıyla bağlanılması durumunda üyenin o kanallar aracılığıyla paylaşılmasına onay verdiği bilgiler, uygulama üzerindeki gezinme ve tıklama bilgileri, uygulamayı açtığı lokasyon bilgileri, alışverişindeki ürün bilgileri sizlerden talep edilebilmekte ve bu verileriniz aşağıdaki amaçlara uygun şekilde XRADEMARK’ın mobil ya da web uygulamasında kaydedilebilmektedir.</p>
+					<p>Aşağıda belirtilen amaçlar esas alınarak, ancak bunlarla sınırlı olmamak üzere, kişisel verileriniz;</p>
+					<p>XRADEMARK’ın web sitesinde Müşteri kaydının açılması, kullanıcı adı oluşturulması, güncellenmesi,</p>
+					<p>Kalite kontrolünün yapılması ve hizmet kalitesinin artırılması,</p>
+					<p>Online satış veya tele-satış yapılması ve bunu sağlayabilmek için XRADEMARK’ın Müşteri ile iletişime geçebilmesi,</p>
+					<p>XRADEMARK tarafından Müşteri’ye ait faturanın (e-fatura, e-arşiv, kâğıt fatura) Müşteri’ye gönderiminin sağlanması,</p>
+					<p>Sipariş takibinin yapılması,</p>
+					<p>Müşteri’ye ürün/ürünlerin gönderilmesi,</p>
+					<p>Bilgilendirme, ürün tanıtımı yapılması,</p>
+					<p>Satış sonrası XRADEMARK tarafından Müşteri’ye destek verilebilmesi,</p>
+					<p>XRADEMARK’ın, Müşteri memnuniyetini oluşturmak ve/veya arttırmak amacıyla iyileştirdiği ve yeni geliştirdiği ürünler için, Müşteri’lerini haberdar edilmesi,</p>
+					<p>Müşteri’lere toplu elektronik ileti yönetiminin sağlanması,</p>
+					<p>XRADEMARK’ın web sitesinin çalışması için gerekli temel fonksiyonları gerçekleştirmesi,</p>
+					<p>XRADEMARK’ın web sitesini analiz etmek ve bu sayede performansını arttırması,</p>
+					<p>XRADEMARK’ın web sitesinin işlevselliğini arttırmak ve kullanım kolaylığı sağlaması,</p>
+					<p>XRADEMARK’ın web sitesine yönelik olarak kişiselleştirme, hedefleme ve reklamcılık faaliyeti gerçekleştirmesi,</p>
+					<p>Mesafeli satış sözleşmesi ve Tüketicinin Korunması Hakkında Kanun’un ilgili maddeleri tahtında akdettiğimiz sözleşmelerin koşulları, güncel durumu ve güncellemeler ile ilgili müşterilerimiz ile iletişime geçmek, gerekli bilgilendirmeleri yapabilmek, akdettiğimiz sözleşmeler uyarınca üstlenilen yükümlülüklerin ifa edilmesi,</p>
+					<p>Müşteri ile kurulacak sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması,</p>
+					<p>XRADEMARK’ın hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması,</p>
+					<p>Bir hakkın tesisi, kullanılması veya korunması için verinizi işlemenin zorunlu olması,</p>
+					<p>İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, XRADEMARK’ın meşru menfaatleri için veri işlenmesinin zorunlu olması gibi diğer nedenlerle,</p>
+					<p>Kanun’un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları ve amaçları dâhilinde belirli, açık ve meşru amaçlar için işlenecektir.</p>
+					<p>İlaveten, XRADEMARK’ın Kanun, Tebliğ ve/veya ilgili mevzuat uyarınca düzenlemiş olduğu ve XRADEMARK tarafından kamuoyu ile XRADEMARK’ın websitesi olan https://www.xrademark.com üzerinden paylaşmış olduğu Çerez Bilgilendirme Metni’nden (“XRADEMARK Politikaları”) kişisel verilerinizin XRADEMARK tarafından işlenmesi amaçlarının detaylarına ve kullandığımız çerezler hakkındaki detaylı bilgilere ulaşabilirsiniz. Mevzuata uygunluğun sağlanabilmesi için yönetmelik ve politikalarımız güncelleneceğinden web sitemizi düzenli aralıklarla takip etmenizi öneririz.</p>
+					<p><b>İşlenen Kişisel Verilerin Kimlere ve Hangi Amaçla Aktarılabileceği</b></p>
+					<p>Toplanmış olan kişisel verileriniz; yukarıda belirtilen amaçlar doğrultusunda ve amacın gerektirdiği ölçüde; XRADEMARK’ın yurt içindeki veya yurt dışında dışarıdan hizmet alınan iş ortaklarına ve/veya hissedarlarına, tedarikçilerine ve diğer hizmet sağlayıcılara, kanunen yetkili kamu kurumları ve/veya özel kişilere, Kanun’un “Kişisel verilerin aktarılması” başlıklı 8. maddesi ile “Kişisel verilerin yurt dışına aktarılması” başlıklı 9. maddesinde belirtilen kişisel veri işleme şartları ve amaçlarına ek olarak;</p>
+					<p>İş ortakları ve tedarikçilerle performans değerlendirme süreçleri ve bu süreçlerin organize edilmesi,</p>
+					<p>Telekomünikasyon ürünleri ve/veya hizmetleri, e-ticaret hizmetleri (ticaret platformları ve çevrimiçi açık arttırmalar dahil), ödeme hizmetlerinin sunulması,</p>
+					<p>Perakende satış ve hizmetlerinin sunulması,</p>
+					<p>Finans, yatırım, sigorta, bankacılık ve kredi kartları işlemlerinin gerçekleştirilmesi,</p>
+					<p>Telekomünikasyon ürün ve hizmetinin sunulması,</p>
+					<p>E-ticaret hizmetinin sunulması (ticaret platformları ve çevrimiçi açık arttırmalar dahil) çerçevesinde XRADEMARK tarafından aktarılabilmektedir.</p>
+					<p><b>Kişisel Verilerinizin Toplanma Yöntemi ve Hukuki Sebebi Nedir?</b></p>
+					<p>XRADEMARK tarafından kişisel verileriniz XRADEMARK’ın internet sitesi, XRADEMARK’ın mobil aplikasyonu, fiziki ve e-posta kanalları, ilgili departmanları vasıtasıyla toplanmaktadır. İlgili toplama işlemi Kanun’un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları ve amaçları ile işbu Müşteri Aydınlatma Metni’nin 2. maddesinde belirtilen amaçlara istinaden gerçekleştirilmektedir.</p>
+					<p><b>Kişisel verilerinizin güvenliği, muhafazası ve imhası</b></p>
+					<p>XRADEMARK kişisel veri güvenliği ve kişi mahremiyetinin korunması konusunda oldukça yüksek hassasiyet ve farkındalığa sahiptir. XRADEMARK olarak, kişisel verilere yetkisiz erişim veya bu bilgilerin kaybı, hatalı kullanımı, ifşa edilmesi, değiştirilmesi veya imha edilmesine karşı korumanın sağlanması, kişisel verilerinizin gizli tutulması, gizliliğin sağlanması ve güvenliğin sağlanması için gerekli idari ve teknik önlemleri almaktayız. Gerekli durumlarda XRADEMARK Kanun ve kişisel verilerin korunması mevzuatı uyarınca sizleri ve Kişisel Verileri Koruma Kurulu’nu derhal bilgilendirir.</p>
+					<p>İşbu Müşteri Aydınlatma Metni’nde belirtilen Müşteri’lerimize ait kişisel veriler başta Kanun ve kişisel verilerin korunması mevzuatı olmak üzere Kişisel Verilerin Korunması Prosedürü ile Kişisel Veri Saklama ve İmha Politikası’na uygun şekilde güvenliği sağlanarak XRADEMARK tarafından işlenmektedir.</p>
+					<p>Kişisel verileriniz, işbu Müşteri Aydınlatma Metni’nde belirtilen işleme amaçları için gerekli olan süre ve her halükarda yasal düzenlemelerde belirtilen kanuni zamanaşımı süreleri boyunca muhafaza edilmektedir. Anılan sürelerin sona ermesi veya bu yönde talebinizin uygun bulunması halinde, Kişisel Veri Saklama ve İmha Politikası doğrultusunda XRADEMARK kişisel verilerinizi siler, yok eder veya anonim hale getirir.</p>
+					<p><b>Kişisel Veri Sahibinin 6698 sayılı Kanun’un 11. maddesinde Sayılan Hakları Nelerdir?</b></p>
+					<p>Kişisel veri sahipleri olarak Kanun’un “İlgili kişinin hakları” başlıklı 11. maddesi uyarınca;</p>
+					<p>Kişisel verilerinizin işlenip işlenmediğini öğrenme,</p>
+					<p>Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme,</p>
+					<p>Kişisel verilerinizin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,</p>
+					<p>Yurt içinde veya yurt dışında kişisel verilerinizin aktarıldığı üçüncü kişileri bilme,</p>
+					<p>Kişisel verilerinizin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme,</p>
+					<p>Kanun ve sair mevzuat hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel verilerinizin silinmesini veya yok edilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme,</p>
+					<p>İşlenen verilerinizin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize olan bir sonucun ortaya çıkmasına itiraz etme,</p>
+					<p>Kişisel verilerinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme haklarınız bulunmaktadır.</p>
+					<p>Müşteri’ler web sitesi üzerinde paylaştıkları bilgilerin doğru olmasının ve güncel bir şekilde muhafaza edilmesinin Kanun kapsamında kişisel verileri üzerinde sahip oldukları hakları kullanabilmeleri ve ilgili diğer mevzuat açısından önemli olduğunu bildiklerini ve yanlış bilgi verilmesinden doğacak sorumlulukların tamamen kendilerine ait olacağını kabul ve beyan etmişlerdir. Kişisel veri sahipleri olarak, haklarınıza ilişkin taleplerinizi yukarıda ‘Veri Sorumlusunun Kimliği’ başlığı altında belirtilen web adresimize mail yolu ile ya da şirket adresine posta yolu ile usulüne uygun, kimlik bilgilerinizi belirtir şekilde iletmeniz halinde, XRADEMARK söz konusu talebinizin niteliğine göre en kısa sürede ve en geç otuz (30) gün içinde ücretsiz olarak ancak, işlemin ayrıca bir maliyeti gerektirmesi halinde, Kişisel Verileri Koruma Kurulu’nca belirlenen tarifedeki ücret alınarak talebinizi sonuçlandıracaktır.</p>
+					<p>Başvuru formu için tıklayınız: Başvuru Formu ve Genel Açıklamalar</p>
+					<p><b>DIXJUIN DİJİTAL AJANS VE YAZILIM ÇÖZÜMLERİ A.Ş.</b></p><br>
+				</div> <!-- /.entry-content -->
+
+			<div class="clearfix"></div>
+
+		</main> <!-- /.main -->
+
+	</div> <!-- /.container -->
+
+	<!-- Footer -->
+	<section class="detailed-info">
+			
+		<div class="container">
+			
+			<ul>
+				<li><span class="role">xrademark türkİye</span><a href="index.html">ana sayfa</a></li>
+				<li><span class="role"></span><a href="hakkimizda.html">hakkımızda</a></li>
+				<li><span class="role"></span><a href="kariyer.html">kariyer</a></li>
+				<li><span class="role"></span><a href="destek.html">İletişim</a></li>
+			</ul>
+
+			<ul>
+				<li><span class="role">yardım ve destek</span><a href="hesabim.html">hesabım</a></li>
+				<li><span class="role"></span><a href="sss.html">sık sorulan sorular</a></li>
+				<li><span class="role"></span><a href="destek.html">müşteri hizmetleri</a></li>
+				<li><span class="role"></span><a href="https://wa.me/905324590369" target="_blank">WhatsApp destek hattı</a></li>
+
+			</ul>
+
+			<ul>
+				<li><span class="role">servİsler</span><a href="paketler.html">paketler</a></li>
+				<li><span class="role"></span><a href="kampanyalar.html">kampanyalar</a></li>
+				<li><span class="role"></span><a href="kayit-ol.html">ücretsiz dene</a></li>
+				<li><span class="role"></span><a href="tavsiye-et.html">tavsiye et</a></li>
+
+			</ul>
+
+			<ul>
+				<li><span class="role">gİzlİlİk ve güvenlİk</span><a href="gizlilik.html">KVKK Politikası</a></li>
+				<li><span class="role"></span><a href="acik-riza-metni.html">açık rıza metni</a></li>
+				<li><span class="role"></span><a href="aydinlatma-metni.html">aydınlatma metni</a></li>
+				<li><span class="role"></span><a href="cerezler.html">çerez politikası</a></li>
+			</ul>
+
+			<div class="clearfix"></div>
+
+		</div> <!-- /.container -->
+
+	</section> <!-- /.detailed-info -->
+
+	<footer class="main-footer">
+		
+
+		<div class="content">
+			
+
+			
+
+			<div class="social-icons">
+				<ul>
+					<li><a href="https://www.facebook.com/xrademark" target="_blank"><i class="fab fa-facebook" target="_blank"></i></a></li>
+					<li><a href="https://www.instagram.com/xrademark" target="_blank"><i class="fab fa-instagram" target="_blank"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/xrademark" target="_blank"><i class="fab fa-linkedin-in" target="_blank"></i></a></li>
+					<li><a href="https://www.youtube.com/@xrademark" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a></li>
+					<li><a href="https://twitter.com/xrademark" target="_blank"><i class="fab fa-twitter" target="_blank"></i></a></li>
+					<li><a href="https://medium.com/@xrademark" target="_blank"><i class="fab fa-medium" target="_blank"></i></a></li>
+					<li><a href="https://wa.me/905324590369" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+				</ul>
+			</div>
+
+			<div class="copyright-info">
+				<p>Copyright &#169; 2023 DIXJUIN Digital Agency & Software Solutions<br> All Rights Reserved</p>
+			</div>
+
+			<div class="clearfix"></div>
+
+		</div> <!-- /.container -->
+
+	</footer>
+
+
+	<div class="aside-nav-container">
+
+		<a href="#" class="close-nav"><i class="ti-close"></i></a>
+
+		<nav>
+
+			<ul class="aside-nav">
+				<li><a href="index.html">ana sayfa</a>
+				</li>
+				<li><a href="marka.html">marka</a>
+				</li>
+				<li><a href="patent.html">patent</a>
+				</li>
+				<li><a href="sss.html">SSS</a>
+				</li>
+				<li><a href="destek.html">destek</a></li>
+			</ul> <!-- /.navigation -->
+
+		</nav>
+
+	</div> <!-- /.aside-nav-container -->
+
+	<div class="body-overlay"></div>
+
+	<!-- Script -->
+	<script src="assets/js/main.js"></script>
+
+</body>
+</html>

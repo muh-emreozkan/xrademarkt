@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Metas -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>XRADEMARK | Paketler</title>
+	<meta name="description" content="XRADEMARK | Paketler">
+	<meta name="author" content="Dixjuin Digital Agency">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="format-detection" content="telephone=+19179856262">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@xrademark">
+	<meta name="twitter:title" content="Xrademark">
+	<meta name="twitter:description" content="Xrademark | Marka Patent Takip Sistemi">
+	<meta name="twitter:creator" content="@xrademark">
+	<meta name="twitter:image" content="img/twitter-card.jpg">
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
+	<meta property="og:title" content="Xrademark">
+	<meta property="og:type" content="Article">
+	<meta property="og:url" content="https://www.xrademark.com">
+	<meta property="og:image" content="assets/img/fb-og-image.jpg">
+	<meta property="og:description" content="Xrademark | Marka Patent Takip Sistemi">
+	<meta property="og:site_name" content="Xrademark">
+	<meta property="fb:admins" content="104332102412513">
+	
+	
+	<!-- Font Family -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
+	<!-- Bootstrap stylesheet -->
+	<link rel="stylesheet" href="assets/css/bootstrap.css">
+	<!-- Site Main stylesheet -->
+	<link rel="stylesheet" href="assets/css/pricing-tables.css">
+	<!-- Responsive stylesheet -->
+	<link rel="stylesheet" href="assets/css/pricing-tables-responsive.css">
+	<!-- Color stylesheet -->
+	<link id="color" rel="stylesheet" href="assets/css/color-1.css" media="screen">
+
+	<!-- External CSS -->
+	<link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+	<link rel="stylesheet" href="assets/css/themify-icons.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="assets/css/main.css">
+	<link rel="stylesheet" href="assets/css/colors.css">
+	<link rel="stylesheet" href="assets/css/responsive.css">
+
+	<!-- Owl Carousel stylesheet -->
+	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+
+	<!-- Favicon -->
+	<link rel="icon" href="assets/img/favicon.png">
+	
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="assets/css/all.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="container">
+		
+<!-- Header -->
+	
+<header class="main-header">
+
+	<a href="index.html" class="logo">
+		<img src="assets/img/logo.svg" alt="logo">
+	</a>
+	<nav>
+		<a href="#" class="open-nav"><i></i></a>
+		<ul class="navigation">
+			<li><a href="index.html">ana sayfa</a>
+			</li>
+			<li><a href="marka.html">marka</a>
+			</li>
+			<li><a href="patent.html">patent</a>
+			</li>
+			<li><a href="sss.html">sss</a>
+			</li>
+			<li><a href="destek.html">destek</a></li>
+		</ul> <!-- /.navigation -->
+
+			</nav> <!-- /nav -->
+
+		</header> <!-- /header -->
+
+		<div class="clearfix"></div>
+
+	</div> <!-- /.container -->
+
+	<!-- Start Pricing Table Style 3 -->
+	<section class="pp-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+				</div>
+			</div>
+			<div class="row">
+				<div class="owl-carousel-plan owl-carousel owl-theme">
+					<!-- Single Plan -->
+					<div class="plan-style-3">
+						<!-- Plan Head -->
+						<div class="plan-header">
+							<h3 class="plan-title">Bireysel</h3>
+							<!-- Plan Price -->
+							<div class="plan-price">
+								<p class="price"><span>₺</span>99<span> / YIL</span></p>
+							</div>
+						</div>
+						<!-- Plan List -->
+						<ul class="plan-list">
+							<li><i class="far fa-check-circle"></i>
+								<span class="tooltip-info">
+									<span class="tooltip-hover-text">1 Marka Takibi</span>
+									<span class="tooltiptext">TPO'da 1 Markanın Takibi</span>
+								</span>
+							</li>
+							<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+							<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+							<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+							<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+							<li><i class="far fa-times-circle"></i>7/24 Platform Desteği 
+							</li>
+						</ul>
+						<!-- Plan Bottom -->
+						<div class="plan-bottom">
+							<a class="plan-button" href="#">Üye Ol</a>
+						</div>
+					</div>
+					<!-- End Single Plan-->
+					<!-- Single Plan -->
+					<div class="plan-style-3">
+						<!-- Plan Head -->
+						<div class="plan-header">
+							<span class="plan-label">Popüler</span>
+							<h3 class="plan-title">Kobi</h3>
+							<!-- Plan Price -->
+							<div class="plan-price">
+								<p class="price"><span>₺</span>499<span> / YIL</span></p>
+							</div>
+						</div>
+						<!-- Plan List -->
+						<ul class="plan-list">
+							<li><i class="far fa-check-circle"></i> 
+								<span class="tooltip-info">
+									<span class="tooltip-hover-text">5 Marka Takibi</span>
+									<span class="tooltiptext">TPO'da 5 Markanın Takibi</span>
+								</span>
+									<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+						</ul>
+						<!-- Plan Bottom -->
+						<div class="plan-bottom">
+							<a class="plan-button" href="#">Üye Ol</a>
+						</div>
+					</div>
+					<!-- End Single Plan-->
+					<!-- Single Plan -->
+					<div class="plan-style-3">
+						<!-- Plan Head -->
+						<div class="plan-header">
+							<h3 class="plan-title">Kurumsal</h3>
+							<!-- Plan Price -->
+							<div class="plan-price">
+								<p class="price"><span>₺</span>2.999<span> / YIL</span></p>
+							</div>
+						</div>
+						<!-- Plan List -->
+						<ul class="plan-list">
+							<li><i class="far fa-check-circle"></i> 
+								<span class="tooltip-info">
+									<span class="tooltip-hover-text">25 Marka Takibi</span>
+									<span class="tooltiptext">TPO'da 25 Markanın Takibi</span>
+								</span>
+									<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+						</ul>
+						<!-- Plan Bottom -->
+						<div class="plan-bottom">
+							<a class="plan-button" href="#">Üye Ol</a>
+						</div>
+					</div>
+					<!-- End Single Plan-->
+					<!-- Single Plan -->
+					<div class="plan-style-3">
+						<!-- Plan Head -->
+						<div class="plan-header">
+							<h3 class="plan-title">Profesyonel</h3>
+							<!-- Plan Price -->
+							<div class="plan-price">
+								<p class="price"><span>₺</span>9.999<span> / YIL</span></p>
+							</div>
+						</div>
+						<!-- Plan List -->
+						<ul class="plan-list">
+							<li><i class="far fa-check-circle"></i> 
+								<span class="tooltip-info">
+									<span class="tooltip-hover-text">100 Marka Takibi</span>
+									<span class="tooltiptext">TPO'da 100 Markanın Takibi</span>
+								</span>
+									<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+						</ul>
+						<!-- Plan Bottom -->
+						<div class="plan-bottom">
+							<a class="plan-button" href="#">Üye Ol</a>
+						</div>
+					</div>
+					<!-- End Single Plan-->
+					<!-- Single Plan -->
+					<div class="plan-style-6">
+						<!-- Plan Head -->
+						<div class="plan-header">
+							<span class="plan-label">Popüler</span>
+							<h3 class="plan-title">Bireysel</h3>
+							<!-- Plan Price -->
+							<div class="plan-price">
+								<p class="price"><span>$</span>99<span> / YIL</span></p>
+							</div>
+						</div>
+						<!-- Plan List -->
+						<ul class="plan-list">
+							<li><i class="far fa-check-circle"></i> 
+								<span class="tooltip-info">
+									<span class="tooltip-hover-text">1 Marka Takibi</span>
+									<span class="tooltiptext">WIPO'da 1 Markanın Takibi</span>
+								</span>
+									<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+									<li><i class="far fa-times-circle"></i>7/24 Platform Desteği 
+						</ul>
+						<!-- Plan Bottom -->
+						<div class="plan-bottom">
+							<a class="plan-button" href="#">Üye Ol</a>
+						</div>
+					</div>
+					<!-- End Single Plan-->
+					<!-- Single Plan -->
+					<div class="plan-style-6">
+						<!-- Plan Head -->
+						<div class="plan-header">
+							<h3 class="plan-title">Kobi</h3>
+							<!-- Plan Price -->
+							<div class="plan-price">
+								<p class="price"><span>$</span>499<span> / YIL</span></p>
+							</div>
+						</div>
+						<!-- Plan List -->
+						<ul class="plan-list">
+							<li><i class="far fa-check-circle"></i> 
+								<span class="tooltip-info">
+									<span class="tooltip-hover-text">5 Marka Takibi</span>
+									<span class="tooltiptext">WIPO'da 5 Markanın Takibi</span>
+								</span>
+									<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+						</ul>
+						<!-- Plan Bottom -->
+						<div class="plan-bottom">
+							<a class="plan-button" href="#">Üye Ol</a>
+						</div>
+					</div>
+					<!-- End Single Plan-->
+					<!-- Single Plan -->
+					<div class="plan-style-6">
+						<!-- Plan Head -->
+						<div class="plan-header">
+							<h3 class="plan-title">Kurumsal</h3>
+							<!-- Plan Price -->
+							<div class="plan-price">
+								<p class="price"><span>$</span>2.999<span> / YIL</span></p>
+							</div>
+						</div>
+						<!-- Plan List -->
+						<ul class="plan-list">
+							<li><i class="far fa-check-circle"></i> 
+								<span class="tooltip-info">
+									<span class="tooltip-hover-text">25 Marka Takibi</span>
+									<span class="tooltiptext">WIPO'da 25 Markanın Takibi</span>
+								</span>
+									<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+						</ul>
+						<!-- Plan Bottom -->
+						<div class="plan-bottom">
+							<a class="plan-button" href="#">Üye Ol</a>
+						</div>
+					</div>
+					<!-- End Single Plan-->
+					<!-- Single Plan -->
+					<div class="plan-style-6">
+						<!-- Plan Head -->
+						<div class="plan-header">
+							<h3 class="plan-title">Profesyonel</h3>
+							<!-- Plan Price -->
+							<div class="plan-price">
+								<p class="price"><span>$</span>9.999<span> / YIL</span></p>
+							</div>
+						</div>
+						<!-- Plan List -->
+						<ul class="plan-list">
+							<li><i class="far fa-check-circle"></i> 
+								<span class="tooltip-info">
+									<span class="tooltip-hover-text">100 Marka Takibi</span>
+									<span class="tooltiptext">WIPO'da 100 Markanın Takibi</span>
+								</span>
+									<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+									<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+									<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+						</ul>
+						<!-- Plan Bottom -->
+						<div class="plan-bottom">
+							<a class="plan-button" href="#">Üye Ol</a>
+						</div>
+					</div>
+					<!-- End Single Plan-->
+				</div>	
+			</div>	
+		</div>
+	</section>
+
+	<!-- End Pricing Table Style 3 -->
+
+		<!-- Start Pricing Table Style 9 -->
+		<section class="pp-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+					</div>
+				</div>
+				<div class="row">
+					<div class="owl-carousel-plan owl-carousel owl-theme">
+						<!-- Single Plan -->
+						<div class="plan-style-3">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Bireysel</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>₺</span>365<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i>
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">1 Patent Takibi</span>
+										<span class="tooltiptext">TPO'da 1 Patentin Takibi</span>
+									</span>
+								</li>
+								<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+								<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+								<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+								<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+								<li><i class="far fa-times-circle"></i>7/24 Platform Desteği 
+								</li>
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-3">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<span class="plan-label">Popüler</span>
+								<h3 class="plan-title">Kobi</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>₺</span>1.999<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">5 Patent Takibi</span>
+										<span class="tooltiptext">TPO'da 5 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-3">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Kurumsal</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>₺</span>9.999<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">25 Patent Takibi</span>
+										<span class="tooltiptext">TPO'da 25 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-3">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Profesyonel</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>₺</span>39.999<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">100 Patent Takibi</span>
+										<span class="tooltiptext">TPO'da 100 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-7">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Bireysel</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>€</span>199<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">1 Patent Takibi</span>
+										<span class="tooltiptext">EPO'da 1 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-times-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-7">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<span class="plan-label">Popüler</span>
+								<h3 class="plan-title">Kobi</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>€</span>799<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">5 Patent Takibi</span>
+										<span class="tooltiptext">EPO'da 5 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-7">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Kurumsal</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>€</span>3.999<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">25 Patent Takibi</span>
+										<span class="tooltiptext">EPO'da 25 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-7">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Profesyonel</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>€</span>14.999<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">100 Patent Takibi</span>
+										<span class="tooltiptext">EPO'da 100 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-6">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Bireysel</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>$</span>249<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">1 Patent Takibi</span>
+										<span class="tooltiptext">WIPO'da 1 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-times-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-6">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Kobi</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>$</span>999<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">5 Patent Takibi</span>
+										<span class="tooltiptext">WIPO'da 5 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-6">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<span class="plan-label">Popüler</span>
+								<h3 class="plan-title">Kurumsal</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>$</span>4.999<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">25 Patent Takibi</span>
+										<span class="tooltiptext">WIPO'da 25 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+						<!-- Single Plan -->
+						<div class="plan-style-6">
+							<!-- Plan Head -->
+							<div class="plan-header">
+								<h3 class="plan-title">Profesyonel</h3>
+								<!-- Plan Price -->
+								<div class="plan-price">
+									<p class="price"><span>$</span>19.999<span> / YIL</span></p>
+								</div>
+							</div>
+							<!-- Plan List -->
+							<ul class="plan-list">
+								<li><i class="far fa-check-circle"></i> 
+									<span class="tooltip-info">
+										<span class="tooltip-hover-text">100 Patent Takibi</span>
+										<span class="tooltiptext">WIPO'da 100 Patentin Takibi</span>
+									</span>
+										<li><i class="far fa-check-circle"></i>Yüzde Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>Harf Benzerlik Taraması</li>
+										<li><i class="far fa-check-circle"></i>E-Posta Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>SMS Bildirim Servisi</li>
+										<li><i class="far fa-check-circle"></i>7/24 Platform Desteği 
+							</ul>
+							<!-- Plan Bottom -->
+							<div class="plan-bottom">
+								<a class="plan-button" href="#">Üye Ol</a>
+							</div>
+						</div>
+						<!-- End Single Plan-->
+					</div>	
+				</div>	
+			</div>	
+		</section>	
+		<!-- End Pricing Table Style 8 -->
+
+
+	<!-- Footer -->
+	<section class="detailed-info">
+			
+		<div class="container">
+			
+			<ul>
+				<li><span class="role">xrademark türkİye</span><a href="index.html">ana sayfa</a></li>
+				<li><span class="role"></span><a href="hakkimizda.html">hakkımızda</a></li>
+				<li><span class="role"></span><a href="kariyer.html">kariyer</a></li>
+				<li><span class="role"></span><a href="destek.html">İletişim</a></li>
+			</ul>
+
+			<ul>
+				<li><span class="role">yardım ve destek</span><a href="hesabim.html">hesabım</a></li>
+				<li><span class="role"></span><a href="sss.html">sık sorulan sorular</a></li>
+				<li><span class="role"></span><a href="destek.html">müşteri hizmetleri</a></li>
+				<li><span class="role"></span><a href="https://wa.me/905324590369" target="_blank">WhatsApp destek hattı</a></li>
+
+			</ul>
+
+			<ul>
+				<li><span class="role">servİsler</span><a href="paketler.html">paketler</a></li>
+				<li><span class="role"></span><a href="kampanyalar.html">kampanyalar</a></li>
+				<li><span class="role"></span><a href="kayit-ol.html">ücretsiz dene</a></li>
+				<li><span class="role"></span><a href="tavsiye-et.html">tavsiye et</a></li>
+
+			</ul>
+
+			<ul>
+				<li><span class="role">gİzlİlİk ve güvenlİk</span><a href="gizlilik.html">KVKK Politikası</a></li>
+				<li><span class="role"></span><a href="acik-riza-metni.html">açık rıza metni</a></li>
+				<li><span class="role"></span><a href="aydinlatma-metni.html">aydınlatma metni</a></li>
+				<li><span class="role"></span><a href="cerezler.html">çerez politikası</a></li>
+			</ul>
+
+			<div class="clearfix"></div>
+
+		</div> <!-- /.container -->
+	</section> <!-- /.detailed-info -->
+
+	
+
+	<footer class="main-footer">
+		
+		<div class="content">
+			<div class="social-icons">
+				<ul>
+					<li><a href="https://www.facebook.com/xrademark" target="_blank"><i class="fab fa-facebook" target="_blank"></i></a></li>
+					<li><a href="https://www.instagram.com/xrademark" target="_blank"><i class="fab fa-instagram" target="_blank"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/xrademark" target="_blank"><i class="fab fa-linkedin-in" target="_blank"></i></a></li>
+					<li><a href="https://www.youtube.com/@xrademark" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a></li>
+					<li><a href="https://twitter.com/xrademark" target="_blank"><i class="fab fa-twitter" target="_blank"></i></a></li>
+					<li><a href="https://medium.com/@xrademark" target="_blank"><i class="fab fa-medium" target="_blank"></i></a></li>
+					<li><a href="https://wa.me/905324590369" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+				</ul>
+			</div>
+
+			<div class="copyright-info">
+				<p>Copyright &#169; 2023 DIXJUIN Digital Agency & Software Solutions<br> All Rights Reserved</p>
+			</div>
+
+			<div class="clearfix"></div>
+
+		</div> <!-- /.container -->
+
+	</footer>
+
+
+	<div class="aside-nav-container">
+
+		<a href="#" class="close-nav"><i class="ti-close"></i></a>
+
+		<nav>
+
+			<ul class="aside-nav">
+				<li><a href="index.html">ana sayfa</a>
+				</li>
+				<li><a href="patent.html">patent</a>
+					<ul class="sub-nav">
+						<li><a href="wipo-patent.html">dünya'da koru</a></li>
+						<li><a href="epo-patent.html">avrupa'da koru</a></li>
+						<li><a href="tpo-patent.html">türkİye'de koru</a></li>
+						</li>
+					</ul>
+				</li>
+				<li><a href="marka.html">marka</a>
+					<ul class="sub-nav">
+						<li><a href="wipo-marka.html">dünya'da koru</a></li>
+						<li><a href="epo-marka.html">avrupa'da koru</a></li>
+						<li><a href="tpo-marka.html">türkİye'de koru</a></li>
+						</li>
+					</ul>
+				<li><a href="sss.html">sss</a>
+				</li>
+				<li><a href="destek.html">destek</a></li>
+			</ul> <!-- /.navigation -->
+
+		</nav>
+
+	</div> <!-- /.aside-nav-container -->
+
+	<div class="body-overlay"></div>
+
+	<!-- Script -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/main.js"></script>
+	<script src="assets/js/44b92c5059.js"></script>
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="assets/js/Pricing-tables.js"></script>
+</body>
+</html>

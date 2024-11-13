@@ -1,0 +1,145 @@
+/* CSS File 
+	===================
+	Item Name: Sava - Creative pricing tables
+	Author: Ashish Maraviya
+	Version: 2.1
+	Copyright 2021-2022
+===================*/
+@media only screen and (max-width: 767px) {
+  .plan-style-1 {
+    max-width: 400px;
+  }
+  .plan-style-1 .plan-price .price {
+    font-size: 50px;
+  }
+  .plan-style-1 .plan-header .plan-title {
+    margin: -14px 0 2px 0;
+  }
+
+  .plan-style-2 {
+    max-width: 400px;
+  }
+  .plan-style-2 .plan-price .price {
+    font-size: 50px;
+  }
+
+  .plan-style-3 {
+    max-width: 400px;
+  }
+  .plan-style-3 .plan-price .price {
+    font-size: 45px;
+  }
+  .plan-style-3 .plan-header .plan-title {
+    margin: -14px 0 5px 0;
+  }
+
+  .plan-style-7 {
+    max-width: 400px;
+  }
+  .plan-style-7 .plan-price .price {
+    font-size: 45px;
+  }
+  .plan-style-7 .plan-header .plan-title {
+    margin: -14px 0 5px 0;
+  }
+
+  .plan-style-8 {
+    max-width: 400px;
+  }
+  .plan-style-8 .plan-price .price {
+    font-size: 45px;
+  }
+  .plan-style-8 .plan-header .plan-title {
+    margin: -14px 0 5px 0;
+  }
+
+  .plan-style-9 {
+    max-width: 400px;
+  }
+  .plan-style-9 .plan-price .price {
+    font-size: 50px;
+  }
+  .plan-style-9 .plan-header .plan-title {
+    margin: -14px 0 5px 0;
+  }
+
+  .plan-style-4 {
+    max-width: 400px;
+  }
+  .plan-style-4 .plan-price .price {
+    font-size: 45px;
+    padding: 20px 0 10px 0;
+  }
+
+  .plan-style-5 {
+    max-width: 400px;
+  }
+  .plan-style-5 .plan-price .price {
+    font-size: 45px;
+    padding: 20px 0 10px 0;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .plan-style-1 {
+    max-width: 350px;
+  }
+  .plan-style-1 .plan-price .price {
+    font-size: 45px;
+  }
+
+  .plan-style-2 {
+    max-width: 350px;
+  }
+  .plan-style-2 .plan-price .price {
+    font-size: 45px;
+  }
+
+  .plan-style-3 {
+    max-width: 350px;
+  }
+  .plan-style-3 .plan-price .price {
+    font-size: 45px;
+  }
+
+  .plan-style-6 {
+    max-width: 350px;
+  }
+  .plan-style-6 .plan-price .price {
+    font-size: 45px;
+  }
+
+  .plan-style-7 {
+    max-width: 350px;
+  }
+  .plan-style-7 .plan-price .price {
+    font-size: 45px;
+  }
+
+  .plan-style-8 {
+    max-width: 350px;
+  }
+  .plan-style-8 .plan-price .price {
+    font-size: 45px;
+  }
+
+  .plan-style-9 {
+    max-width: 350px;
+  }
+  .plan-style-9 .plan-price .price {
+    font-size: 45px;
+  }
+
+  .plan-style-4 {
+    max-width: 350px;
+  }
+  .plan-style-4 .plan-price .price {
+    font-size: 45px;
+  }
+
+  .plan-style-5 {
+    max-width: 350px;
+  }
+  .plan-style-5 .plan-price .price {
+    font-size: 45px;
+  }
+}

@@ -1,0 +1,152 @@
+/*Color CSS File 
+	===================
+	Item Name: Sava - Creative pricing tables
+	Author: Ashish Maraviya
+	Version: 2.1
+	Copyright 2021-2022
+===================*/
+
+// Utilities ( Import Utilities )
+@import "utilities/_variables";
+
+/* Owl general css start */
+.owl-carousel-plan.owl-theme {
+	.owl-dots {
+		.owl-dot.active {
+			span {
+				background: $table-color-pink-2;
+				background: -webkit-gradient(linear, left top, left bottom, color-stop(0, $table-color-pink-2), to($table-color-pink-1));
+				background: linear-gradient(to bottom, $table-color-pink-2 0, $table-color-pink-1 100%);
+			}
+		}
+		.owl-dot {
+			span {
+				background: $table-color-pink-2;
+				background: -webkit-gradient(linear, left top, left bottom, color-stop(0, $table-color-pink-2), to($table-color-pink-1));
+				background: linear-gradient(to bottom, $table-color-pink-2 0, $table-color-pink-1 100%);
+			}
+		}
+	}
+}
+/* Owl general css end */
+/* Start Pricing plan style 1 */
+.plan-style-1 {
+	.plan-header {
+		background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+	}
+	.plan-button {
+		background-image: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2, $table-color-pink-2, $table-color-pink-1);
+	}
+	.plan-list {
+		li {
+			i {
+				color: $table-color-pink-2;
+			}
+		}
+	}
+	&:hover {
+		border: 1px solid $table-color-pink-1;
+	}
+}
+/* End Pricing plan style 1 */
+/* Start Pricing plan style 2 */
+.plan-style-2 {
+	&:hover {
+		.price {
+			color: $table-color-pink-2;
+		}
+		border: 1px solid $table-color-pink-1;
+	}
+	.plan-button {
+		&:hover {
+			color: $table-color-pink-2;
+		}
+	}
+	.plan-header {
+		background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+	}
+	.plan-bottom {
+		background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+	}
+}
+/* End Pricing plan style 2 */
+/* Start Pricing plan style 3 */
+.plan-style-3 {
+	.plan-header {
+		background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+	}
+	.plan-bottom {
+		background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+	}
+	.plan-list {
+		li {
+			i.far.fa-check-circle {
+				color: $table-color-pink-2;
+			}
+		}
+	}
+	.plan-button {
+		&:hover {
+			color: $table-color-pink-2;
+		}
+	}
+	&:hover {
+		border: 1px solid $table-color-pink-1;
+	}
+}
+/* End Pricing plan style 3 */
+/* Start Pricing plan style 4 */
+.plan-style-4 {
+	.plan-header {
+		border-bottom: 5px solid $table-color-pink-2;
+		.plan-label {
+			background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+		}
+		.plan-icon {
+			background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+		}
+	}
+	.plan-price {
+		background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+	}
+	&:hover {
+		.plan-title {
+			color: $table-color-pink-2;
+		}
+	}
+	.plan-button {
+		background-image: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2, $table-color-pink-2, $table-color-pink-1);
+	}
+}
+/* End Pricing plan style 4 */
+.plan-style-5 {
+	.plan-header {
+		.lable {
+			background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+		}
+		.plan-icon {
+			background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+		}
+	}
+	.plan-price {
+		background: linear-gradient(to right, $table-color-pink-1, $table-color-pink-2);
+	}
+	&:hover {
+		.plan-title {
+			color: $table-color-pink-2;
+		}
+		border: 1px solid $table-color-pink-1;
+	}
+	.plan-list {
+		li {
+			i.far.fa-check-circle {
+				color: $table-color-pink-2;
+			}
+		}
+	}
+	.plan-button {
+		color: $table-color-pink-2;
+		border: 2px solid $table-color-pink-2;
+	}
+}
+/* Start Pricing plan style 5 */
